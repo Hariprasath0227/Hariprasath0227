@@ -54,5 +54,5 @@ With hands-on experience in **Playwright, Cypress, Selenium, and API automation*
 ---
 
 ## 🌍 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/hariprasath-sriram-869149131/)  
 - ✍️ Portfolio/Blog: (Add later if you want)  
